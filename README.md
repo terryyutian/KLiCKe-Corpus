@@ -11,7 +11,3 @@ The link provides these items:
 - TypingTests folder. This folder contains the results from four typing tests, represented in keystroke logs in both _.csv_ and _.idfx_ format.
 - VocabularyKnowledgeTest folder. This folder contains the results from the vocabulary knowledge test.
 - demographic_info.csv. This spreadsheet contains the writers' demographic details.
-
-Please refer to the paper below for a detailed description of the corpus and the context of its construction:
-
-Tian, Y., Crossley, S. (in review). The Keystroke Logging in Compositions for Knowledge Evaluation (KLiCKe) Corpus. _The Journal of Writing Research_.
