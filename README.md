@@ -3,7 +3,7 @@
 The Keystroke Logging in Compositions for Knowledge Evaluation (KLiCKe) corpus is a large-scale dataset featuring detailed keystroke logs for the writing process. This corpus comprises ~5,000 persuasive essays written by adult writers in the United States. Details of the writers' text production processes, including every keystroke and mouse operation with the corresponding time stamps and cursor position information, were recorded using a web-based keystroke logging program and were presented in _.csv_ (for custom data manipulation and analysis) and _.idfx_ (analyzable by available keystroke logging software like [Inputlog](https://www.inputlog.net/)) formats. Holistic writing quality scores are also available for all the persuasive texts in the corpus, obtained through double-blind rating by a cohort of expert human raters using a standardized essay grading scale. In addition, the corpus also provides the writers' demographic information such as age, gender, native language, ethnicity/race, and education level, as well as information about their keyboarding skills and vocabulary knowledge.
 
 The corpus is too large for GitHub. The link for the content of the corpus is below:
-https://drive.google.com/drive/folders/1JdnwSA70N7wizVNkWT-OvNw3nR8zYLTH?usp=sharing
+https://drive.google.com/drive/folders/13Q02Mvj7T-T1OpZzkEqfHwqM7oI61lLR?usp=sharing
 
 The link provides these items:
 
